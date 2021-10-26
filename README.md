@@ -14,7 +14,7 @@ _I'm currently a student at UAS St. Pölten doing my masters degree in media pro
 
 I love to code. Especially frontend stuff. Normaly im the guy that will design the users interface in a way that it fits the CI. Appart from my dev hobby, i do animation, VFX and movie or sound work.
 
-<h3 style="text-align: center"> Languages and Tools</h3>
+<h3 style="text-align: center">Languages and Tools</h3>
 <p style="text-align: center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" height="40"/>
@@ -54,6 +54,7 @@ I love to code. Especially frontend stuff. Normaly im the guy that will design t
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigithefrench&layout=compact&theme=panda" width="450" />
 <br />
 </p>
+
 <!--
 **luigithefrench/luigithefrench** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
